@@ -34,3 +34,17 @@ section {
     margin-bottom: 1rem;
     background: #fff;
 }
+
+parrafo_centrado {
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+.parrafo-centrado {
+    text-align: center;
+  }
